@@ -137,8 +137,6 @@ pyttsx3==2.90
 PyTweening==1.0.3
 pytz==2021.1
 pywebio==1.4.0
-pywhatkit==4.7
-pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.3.0
 regex==2021.4.4
